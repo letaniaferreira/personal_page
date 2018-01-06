@@ -1,0 +1,19 @@
+body{
+background: url("http://www.realartways.org/wp-content/uploads/2014/11/Board-Games-Feature.jpg") no-repeat center center fixed;
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+}
+
+h1{
+    text-align: center;
+    color:white;
+    margin-top:50px;
+    font-size: 4em;
+}
+
+form{
+    text-align: center;
+    margin: 0 auto;
+}
